@@ -14,8 +14,9 @@ logging library
 ### Instructions
 
 1. Ensure that your Excel file is in the correct format and in the same directory as the Python script. The expected format is provided in ['test_input'](https://github.com/Dilara0880/generateXML/blob/main/test_input.xlsx).
-2. Use `python script.py` to run the script with Python 3.8 or later.
-3. The script will generate an XML file in the same directory, with the data from the Excel file and additional attributes based on the exchange rate of USD.
+2. Install all the requirements using `python -m pip install -r requirements.txt`. 
+3. Use `python script.py` to run the script with Python 3.8 or later.
+4. The script will generate an XML file in the same directory, with the data from the Excel file and additional attributes based on the exchange rate of USD.
 
 ### Features
 
